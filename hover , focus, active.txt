@@ -1,0 +1,48 @@
+  <p>Lorem ipsum dolor sit
+     amet consectetur adipisicing elit.
+html    
+Voluptas reprehenderit 
+    minima doloremque, illum veniam quod 
+    </p>
+    <a href="http://google.com" class="format">google</a>
+    <hr>
+    <form action="">
+    <input type="text">
+    <button>submit</button>
+css
+a.format:link{
+    color:brown;
+text-decoration: none;
+}
+a.format:visited{
+    color: blue;
+}
+input:hover{
+    background-color: brown;
+}
+input:focus{
+    background-color: blue;
+}
+button:active{
+    background-color: green;
+}
+
+footer css
+.footer{
+    width: 100%;
+    background-color:#7b1fa2;
+    height: auto;
+}
+.footer > div{
+    text-align: center;
+    align-items: center;
+}
+top button css
+.top{
+    position: fixed;
+    left: 20px;
+    bottom: 120px;
+}
+https://www.odoo.com/app/sales?utm_source=google&utm_medium=cpc&utm_campaign=MEA-EN-Sales&utm_gclid=EAIaIQobChMIh_3XluyW8wIVCbrtCh3xGgeeEAAYASAAEgI8g_D_BwE&gclid=EAIaIQobChMIh_3XluyW8wIVCbrtCh3xGgeeEAAYASAAEgI8g_D_BwE
+https://www.amazon.in/?ie=UTF8&ext_vrnc=hi&tag=googinprimeexpt5-21&ascsubtag=_k_CjwKCAjwy7CKBhBMEiwA0Eb7ampLEuWx456NykZlowf_O92NnDkxVdqQ86UnlTIA6DcF7dGcSxhg-hoCMgAQAvD_BwE_k_&gclid=CjwKCAjwy7CKBhBMEiwA0Eb7ampLEuWx456NykZlowf_O92NnDkxVdqQ86UnlTIA6DcF7dGcSxhg-hoCMgAQAvD_BwE
+

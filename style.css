@@ -1,0 +1,174 @@
+.navbar{
+    background-color:blueviolet !important;
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+}
+.navbar-brand{
+    color: orange !important;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+.logo{
+    margin-right: 20px;
+    margin-bottom: 10px;
+
+}
+.nav-link{
+color: white !important;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+}
+.navbar-nav{
+    margin-right: 40px;
+}
+.carousel-item{
+    margin-top:60px;
+}
+h5,p{
+    color: blue;
+}
+.fa-android,.fa-amazon,.fa-internet-explorer{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color:blueviolet ;
+}
+h3{
+    color: blueviolet;
+}
+.Card1,.Card2,.Card3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: whitesmoke;
+    box-shadow:3px 5px 6px black;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+
+}
+.MainCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.container{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.heading1{
+    text-align: center;
+}
+.heading2{
+    text-align: center;
+}
+.heading3{
+    text-align: center;
+}
+.button1{
+    color: orange;
+    background-color: blueviolet;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 40px;
+    border-radius: 50px;
+    width: 48%;
+}
+.button2{
+    color: white;
+    background-color: darkred;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 40px;
+    border-radius: 50px;
+    width: 42%;
+}
+.button3{
+    color:magenta;
+    background-color:green;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 40px;
+    border-radius: 50px;
+    width: 52%;
+}
+button:hover{
+    background-color: brown;
+}
+.card{
+    display: flex;
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  
+}
+.btn-primary{
+    background-color:orange;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 20px;
+}
+.card-text{
+    font-weight: bold;
+    text-align: center;
+}
+h5{
+    font-weight: bold;
+    text-align: center;
+}
+.footer>div{
+  text-align: center;
+  align-items: center; 
+}
+.footer{
+    width: 100%;
+    height: auto;
+    background-color:blueviolet;
+}
+h4{
+    color: orange;
+}
+.top{
+    position: fixed;
+    bottom: 20px;
+left: 15px;
+width: 100px;
+height: 100px;
+}
+.bottom{
+    position: fixed;
+right: 15px;
+top: 0px;
+    width: 100px;
+    height: 100px;
+
+}
+@media screen and (max-width: 600px) {
+    .Card1,.Card2,.Card3 {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .card {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .button1,.button2,.button3 {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .navbar {
+        width: 100%;
+    }
+}
